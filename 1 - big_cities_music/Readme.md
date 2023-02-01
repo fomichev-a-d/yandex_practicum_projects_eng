@@ -1,31 +1,27 @@
-# Проект "Музыка больших городов"
+# "Big cities music"
 
-Сравнение жанровых предпочтений пользователей сервиса "Яндекс музыка" в зависимости от города (Москва / Санкт-Петербург), дня недели и времени.
-
-
-
-## Проверка гипотез
+Yandex Music Moscow and Saint-Petersburg users preferences comparation. Difference in weekday, time and genre researched.
 
 
-*1. Активность пользователей зависит от дня недели. Причём проявляется это по-разному.*
-
-*2. В понедельник утром и вечером в пятницу в Москве преобладают одни жанры, а в Петербурге — другие.*
-
-*3. Москва и Петербург предпочитают разные жанры музыки.*
+## Hypotoses check
 
 
-## Ход исследования
+*1. User activity depends on weekday. Both cities respond differently.*
+
+*2. Monday morning and Friday evenind has its own preferrable genres in Saint-Petersburg and others in Moscow.*
+
+*3. Users in Saint-Petersburg and Moscow prefer different genres in general.*
 
 
-Данные о поведении пользователей получены из файла .csv. О качестве данных ничего не известно. Поэтому перед проверкой гипотез требуется обзор данных.
+## Project pipeline
 
+  
+*1. Task determination.*
 
-*1. Постановка задачи.*
+*2. Data observation.*
 
-*2. Обзор данных.*
+*3. Data preprocessing.*
 
-*3. Предобработка данных.*
+*4. Hypotoses check.*
 
-*4. Проверка гипотез.*
-
-*5. Выводы.*
+*5. Conclusion.*
