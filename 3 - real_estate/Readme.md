@@ -1,16 +1,16 @@
-# Проект "Статистический анализ рынка недвижимости"
+# "Real estate market statistical analysis"
   
-Поиск зависимостей между различными параметрами рынка недвижимости Санкт-Петербурга и Ленинградской области.
+Looking for relations between the variety of parameters over Saint-Petersburg and surroundings real estate objects
   
-## Предобработка данных
+## Data Preprocessing
   
-1. Обработка пропущенных значений
-2. Обработка дубликатов
+1. Missed values determinition
+2. Duplicated data processing
   
-## Проверка гипотез
+## Hypotoses check
   
-1. Оценка распределения значений основных параметров
-2. Зависимость цены от различных параметров
-3. Изучение скорости продажи недвижимости
-4. Средняя стоимость за м2
-5. Отличие стоимости за м2 в центре и на окраине Санкт-Перербурга
+1. Key parameters distribution
+2. Parameters / Price correlation
+3. "For sale" lifetime
+4. Average square meter price
+5. Comparation between districts of Saint-Petersburg
