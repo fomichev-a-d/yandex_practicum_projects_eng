@@ -1,15 +1,14 @@
-# Проект "Исследование эффективности рекламных кампаний"
-   
-**Цель исследования** - Оценка прибыльности рекламных кампаний. На основании информации о пользователях, покупках, а также о стоимости привлечения клиентов определяется эффективность проводимых рекламных кампаний, а также планируются шаги по повышению их прибыльности.  
+# "Marketing efficiency analysis"
   
-## Ход исследования
+Marketing campains efficiency estimation.  
+The effectiveness of ongoing advertising campaigns was determined based on purchases, as well as the cost of customers attraction.  
+Future steps on its profitability increase were planned.  
   
-Данные получены из файлов с расширением .csv. К данным приложена документация, однако могут встречаться пропуски или значения, искажающие данные. Поэтому перед проверкой гипотез требуется провести обзор данных и их обработку.  
+## Project pipeline
   
-Далее необходимо провести анализ следующих параметров:  
-* каналы привлечения пользователей
-* перечень используемых устройств
-* стоимость привлечения пользователей из различных рекламных каналов
-* сколько денег в среднем приносит клиент
-* окупаемость расходов на привлечение, а также срок окупаемости
-* факторы, затрудняющие привлечение клиентов
+1. Data observation, preprocessing and addition
+2. Market observation, statistical analysis 
+3. Perspective platforms prediction
+4. Correlation between rewievs and sales
+5. Hypotoses check.
+6. Conclusion.
