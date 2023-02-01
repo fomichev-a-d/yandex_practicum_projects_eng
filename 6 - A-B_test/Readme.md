@@ -1,15 +1,13 @@
-# Проект "Проведение A/B тестирования"
+# "A/B test"
    
-**Цель исследования** - Проверка гипотезы с целью повышения ключевых метрик  
+**Research goal** - Most relevant hypothesis check for key metrics improvement  
+    
+## Project pipeline
   
-На основании перечня гипотез от маркетингового отдела по повышению ключевых метрик необходимо выбрать наиболее приоритетную, а также провести сравнительный анализ и принять решение о внедрении изменений или отказе от работы с гипотезой.  
-  
-## Ход исследования
-  
-1. Выбор наиболее приоритетной гипотезы
-2. Проведение тестирования
-3. Подготовка данных для анализа
-4. Анализ ключевых метрик
-5. Проверка на наличие аномалий
-6. Оценка статистической значимости
-7. Принятие решения о дальнейшей работе с гипотезой
+1. Hypotheses prioritisation
+2. A/B test conducting
+3. Data preparation for its analysis
+4. Key business metrics analysis
+5. Checking for anomalies
+6. Statistical significance assessment
+7. Deciding on further actions about the hypothesis
