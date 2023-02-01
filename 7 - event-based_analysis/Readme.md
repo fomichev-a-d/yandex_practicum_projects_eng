@@ -1,13 +1,13 @@
-# Проект "Событийная аналитика интернет-магазина"
-   
-**Цель исследования** - Необходимо проанализировать поведение пользователей, составив воронку продаж.  
+# "Event-based analytics"
+ 
+Analysis, based on user actions. Key problems research on the example of an online store. Hypoteses propose for significant metrics improvement.
+
+Based on A/A/B test results, it has to be determined, if the interface changes improved convertion rate and profit.  
   
-Также по результатам данных A/A/B тестирования необходимо оценить, повлияло ли изменение интерфейса на увеличение количества заказов и конверсии.  
-  
-## Ход исследования
+## Project pipeline
     
-1. Обзор и предобработка данных
-2. Создание воронки событий
-3. Изучение результатов тестирования
-4. Оценка статистической значимости
-5. Выводы
+1. Data observation and preprocessing.
+2. "Action whirpool".
+3. A/A/B test results analysis.
+4. Statistical significance assessment.
+5. Conclusion.
