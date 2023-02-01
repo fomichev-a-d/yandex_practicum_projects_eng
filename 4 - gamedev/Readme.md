@@ -1,15 +1,13 @@
-# Проект "Анализ рынка видеоигр"
+# "Game Development industry research"
   
-Оценка различных параметров рынка гейм-девелопмента:
-* Поиск перспективных платформ 
-* Составление портрета пользователя 
-* Проверка гипотез
+Analysis of the major parameters in GameDev: Perspective platforms prediction, "User portrait" observation, Hypoteses propose and fact-check.  
   
-## Ход исследования
+## Project pipeline
   
-1. Обработка пропущенных и некорректных значений, дополнение данных
-2. Обзор рынка, статистический анализ 
-3. Поиск перспективных видеогровых платформ
-4. Анализ зависимости отзывов от числа продаж
-5. Проверка статистических гипотез
-6. Выводы
+1. Task determination.
+2. Data observation, preprocessing and addition.
+3. Statistical market analysis.
+4. Persrective platforms prediction.
+5. Reviews/Sales correlation.
+6. Hypotoses check.
+7. Conclusion.
