@@ -1,9 +1,9 @@
 # Online-library database rewiew (SQL)
    
-**Цель исследования** - Проведение первичного анализа базы данных. Изучение наполнения, взаимосвязей и полноты данных средствами языка SQL.
+**Research goal** - Conducting a primary analysis of the database. Studying the content, relations and completeness of data using the SQL language.
   
-## Ход исследования
+## Project pipeline
     
-1. Подключение к базе данных
-2. Выполнение запросов
-3. Описание полученных результатов
+1. Database connection
+2. Execution of requests
+3. Description of the results obtained
