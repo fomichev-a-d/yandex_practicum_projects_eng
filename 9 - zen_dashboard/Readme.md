@@ -1,5 +1,5 @@
 # Dashboard for Yandex Zen
    
-**Цель исследования** - С помощью сервиса Tableau необходимо сформировать дашборд с демонстрацией взаимодействия пользователей с платформой Яндекс Дзен. 
+**Research goal** - Using the Tableau service, it is necessary to create a dashboard with a demonstration of user interaction with the Yandex Zen platform.
  
-Также необходимо создать презентацию с демонстацией основных результатов и выводами о работе сервиса.  
+It is also necessary to create a presentation with a demonstration of the main results and conclusions about the work of the service.
